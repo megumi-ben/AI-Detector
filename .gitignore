@@ -8,8 +8,8 @@ copy/
 
 # Expo
 .expo/
-./idea
-./vscode
+.idea/
+.vscode/
 dist/
 web-build/
 expo-env.d.ts
