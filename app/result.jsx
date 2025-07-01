@@ -251,7 +251,7 @@ const ResultPage = () => {
                     <Card style={styles.radarCard}>
                         <Card.Content>
                             <View>
-                                <Text style={styles.guageTitle}>雷达图：</Text>
+                                <Text style={styles.guageTitle}>特征图：</Text>
                                 <RadarCharter values={radarValues}/>
                             </View>
                         </Card.Content>

@@ -62,7 +62,7 @@ export default function App({values=[100,100,100]}) {
           // shape: 'circle',
           indicator: [
             { name: 'likelihood', max: 500 },
-            { name: 'entropy standard', max: 500 },
+            { name: 'entropy', max: 500 },
             { name: 'deviation ', max: 500 },
           ]
         },

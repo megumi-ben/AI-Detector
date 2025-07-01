@@ -121,3 +121,7 @@ npx expo start
 ### 历史记录📑
 
 ![image/history.jpg](image/history.jpg)
+
+## 支持我们
+
+项目链接: [https://github.com/megumi-ben/AI-Detector.git](https://github.com/megumi-ben/AI-Detector.git)
