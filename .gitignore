@@ -2,6 +2,9 @@
 
 # dependencies
 node_modules/
+android/
+log.txt
+copy/
 
 # Expo
 .expo/
